@@ -1,0 +1,12 @@
+{
+  "name": "SistemaEscolarV5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/juanmendez4/SistemaEscolarV5",
+  "author": "juanmendez4 <71897012+juanmendez4@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bulma": "^0.9.1"
+  }
+}
