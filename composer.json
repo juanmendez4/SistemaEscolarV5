@@ -1,0 +1,11 @@
+{
+    "name": "juanmendez/sistemaescolarv5",
+    "description": "Es un sistema escolar de calificaciones",
+    "authors": [
+        {
+            "name": "juanmendez4",
+            "email": "71897012+juanmendez4@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
